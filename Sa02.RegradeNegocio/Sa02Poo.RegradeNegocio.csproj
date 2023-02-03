@@ -43,6 +43,11 @@
   <ItemGroup>
     <Compile Include="Aplicativo1RN.cs" />
     <Compile Include="Aplicativo2RN.cs" />
+    <Compile Include="Aplicativo3RN.cs" />
+    <Compile Include="Aplicativo4RN.cs" />
+    <Compile Include="Aplicativo5RN.cs" />
+    <Compile Include="Aplicativo6RN.cs" />
+    <Compile Include="Aplicativo7RN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
